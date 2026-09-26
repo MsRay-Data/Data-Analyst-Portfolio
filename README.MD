@@ -260,7 +260,10 @@ Power BI Sales Performance Dashboard
 
 The dashboard provides an interactive view of sales performance across regions, categories, products, customers, and time.
 
-Dashboard screenshot will be displayed here.
+[Power BI Sales Performance Dashboard](DASHBOARD. PNG)
+
+
+
 
 Skills Demonstrated
 Data cleaning and transformation
