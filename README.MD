@@ -203,7 +203,75 @@ More projects and analysis will be added as I continue developing my Data Analyt
 ⭐ Thank you for visiting my portfolio!
 
 
+Sales Performance & Customer Analysis Dashboard
 
+An interactive Power BI dashboard designed to analyze sales performance, customer behavior, product performance, regional performance, and monthly sales trends.
 
+This project demonstrates practical data analysis, data visualization, KPI development, and business intelligence skills using Power BI.
+
+Business Problem
+
+The objective of this project is to analyze sales performance and customer purchasing patterns using Power BI.
+
+The dashboard provides an interactive view of sales across:
+
+Regions
+Product categories
+Products
+Customers
+Time
+
+The analysis helps stakeholders understand sales performance, identify high-performing areas and products, and monitor key business performance indicators for better decision-making.
+
+Tools & Technologies
+Power BI — Dashboard development and interactive data visualization
+Power Query — Data cleaning and transformation
+DAX — KPI and measure calculations
+Data Analysis — Sales, customer, product, regional, and time-based analysis
+
+Key Performance Indicators
+KPI	Value
+Total Sales	167M
+Average Order Value	558.3K
+Total Customers	15
+Total Quantity	923
+
+Dashboard Features
+Interactive sales performance analysis
+Sales analysis by region
+Sales analysis by product category
+Monthly sales trend analysis
+Top product performance
+Customer sales analysis
+Interactive Category, Region, and Order Date slicers
+KPI cards for quick performance monitoring
+Reset Filters button for interactive dashboard navigation
+
+Key Insights
+Regional Performance: The Northwest region records the strongest sales performance among the regions shown in the dashboard.
+Category Performance: Electronics is the leading product category by sales.
+Product Performance: Laptops are among the top-performing products by sales.
+Monthly Performance: August is the strongest month shown in the current dashboard view.
+
+These insights demonstrate how the dashboard can be used to identify sales patterns and areas of strong performance.
+
+Dashboard Preview
+Power BI Sales Performance Dashboard
+
+The dashboard provides an interactive view of sales performance across regions, categories, products, customers, and time.
+
+Dashboard screenshot will be displayed here.
+
+Skills Demonstrated
+Data cleaning and transformation
+Data modeling
+DAX calculations
+KPI development
+Interactive dashboard design
+Data visualization
+Sales performance analysis
+Customer analysis
+Regional and product analysis
+Business insight generation
 
 
