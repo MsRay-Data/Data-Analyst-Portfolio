@@ -1,4 +1,4 @@
-
+ 
 ## Hi, I'm MsRay 👋
 
 Welcome to my Data Analyst portfolio.
@@ -260,7 +260,9 @@ Power BI Sales Performance Dashboard
 
 The dashboard provides an interactive view of sales performance across regions, categories, products, customers, and time.
 
-[Power BI Sales Performance Dashboard](DASHBOARD.PNG)
+![Power BI Sales Performance Dashboard](DASHBOARD.PNG)
+
+
 
 
 
